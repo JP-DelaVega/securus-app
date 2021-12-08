@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1046187134073",
+    "firebase_url": "https://flutter-securus-cff11.firebaseio.com",
+    "project_id": "flutter-securus-cff11",
+    "storage_bucket": "flutter-securus-cff11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046187134073:android:0a2230d4f567846f8bd8a8",
+        "android_client_info": {
+          "package_name": "com.example.newsecurus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046187134073-sousdjs0nlc485mra55g6v5pskioriv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newsecurus",
+            "certificate_hash": "af26dda028964de0ada6000bbc6513c60c59966a"
+          }
+        },
+        {
+          "client_id": "1046187134073-5drt3tod432b4ab10uttrs0p1a97d3vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH9bINQa7nyC047W9Hep8kFeqCUsyz7pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046187134073-5drt3tod432b4ab10uttrs0p1a97d3vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
